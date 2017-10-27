@@ -1,22 +1,12 @@
-## This repository is archived.
+# snew-classic-ui
 
-This repository is archived and will not receive any updates or accept issues or pull requests.
+An Open-Source React fork of the Classic Reddit User Experience
 
-To report bugs in reddit.com please make a post in [/r/bugs](http://www.reddit.com/r/bugs).
-
-If you have found a bug that can in some way compromise the security of the
-site or its users, please exercise [responsible
-disclosure](http://www.reddit.com/wiki/whitehat) and e-mail
-security@reddit.com.
+Forked from: https://github.com/reddit/reddit
 
 ---
 
-### API
+In Honor and Loving Memory of Aaron Swartz (1989 - 2011)
 
-For notices about reddit API changes and discussion of reddit API client development, subscribe to the [/r/redditdev](http://www.reddit.com/r/redditdev) and [/r/changelog](http://www.reddit.com/r/changelog) subreddits.
+> I think all censorship should be deplored. My position is that bits are [not a bug](https://archive.is/eBNaf) – that we should create communications technologies that allow people to send whatever they like to each other. And when people put their thumbs on the scale and try to say what can and can’t be sent, we should fight back – both politically through protest and technologically through software
 
-To learn more about reddit's API, check out our [automated API documentation](http://www.reddit.com/dev/api) and the [API wiki page](https://github.com/reddit/reddit/wiki/API). Please use a unique User-Agent string and take care to abide by our [API rules](https://github.com/reddit/reddit/wiki/API#wiki-rules).
-
-### Quickstart
-
-To set up your own instance of reddit see the [install guide](https://github.com/reddit/reddit/wiki/Install-guide).
