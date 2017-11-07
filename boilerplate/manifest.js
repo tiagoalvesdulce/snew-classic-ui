@@ -13,6 +13,7 @@ export { default as LoginFormSide } from "./LoginFormSide";
 export { default as LoginSignupPage } from "./LoginSignupPage";
 export { default as Markdown } from "./Markdown";
 export { default as NavButtons } from "./NavButtons";
+export { default as NavTab } from "./NavTab";
 export { default as NestedListing } from "./NestedListing";
 export { default as OrganicListing } from "./OrganicListing";
 export { default as RecentlyViewedLinks } from "./RecentlyViewedLinks";

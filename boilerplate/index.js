@@ -18,6 +18,7 @@ export const LoginFormSide = comps.LoginFormSide = snew(comps.LoginFormSide);
 export const LoginSignupPage = comps.LoginSignupPage = snew(comps.LoginSignupPage);
 export const Markdown = comps.Markdown = snew(comps.Markdown);
 export const NavButtons = comps.NavButtons = snew(comps.NavButtons);
+export const NavTab = comps.NavTab = snew(comps.NavTab);
 export const NestedListing = comps.NestedListing = snew(comps.NestedListing);
 export const OrganicListing = comps.OrganicListing = snew(comps.OrganicListing);
 export const RecentlyViewedLinks = comps.RecentlyViewedLinks = snew(comps.RecentlyViewedLinks);
